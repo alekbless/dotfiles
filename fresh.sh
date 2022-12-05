@@ -41,9 +41,6 @@ $HOME/.composer/vendor/bin/valet install
 # Create a Projects directory
 mkdir $HOME/Projects
 
-# Create sites subdirectories
-mkdir $HOME/Sites/laravel
-
 # Clone Github repositories
 $DOTFILES/clone.sh
 
