@@ -43,6 +43,8 @@ brew 'nginx'
 brew 'node'
 brew 'redis'
 brew 'yarn'
+brew 'influxdb'
+brew 'influxdb-cli'
 
 # Apps
 cask 'balenaetcher'
