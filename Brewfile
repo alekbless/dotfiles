@@ -45,6 +45,7 @@ brew 'redis'
 brew 'yarn'
 brew 'influxdb'
 brew 'influxdb-cli'
+brew 'sequel-ace'
 
 # Apps
 cask 'balenaetcher'
