@@ -72,6 +72,7 @@ cask 'tinkerwell'
 cask 'transmit'
 cask 'tunnelbear'
 cask 'visual-studio-code'
+cask 'alfred'
 
 # Fonts
 cask 'font-lato'
