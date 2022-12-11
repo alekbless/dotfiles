@@ -74,6 +74,7 @@ cask 'transmit'
 cask 'tunnelbear'
 cask 'visual-studio-code'
 cask 'alfred'
+cask 'todoist'
 
 # Fonts
 cask 'font-lato'
