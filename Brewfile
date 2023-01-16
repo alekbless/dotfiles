@@ -46,6 +46,7 @@ brew 'yarn'
 brew 'influxdb'
 brew 'influxdb-cli'
 brew 'sequel-ace'
+brew 'balena-cli'
 
 # Apps
 cask 'balenaetcher'
